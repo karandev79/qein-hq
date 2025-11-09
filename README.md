@@ -53,7 +53,7 @@
 | 5V 3A Power Supply | 1 | $2.53 | [Link](https://robu.in/product/power-supply-adapter-charger-5v-3a-type-c-plug/?gad_campaignid=17427802559) |
 | Bluetooth audio power amplifier | 1 | $2.36 | [Link](https://robu.in/product/5w5w-bluetooth-audio-power-amplifier-green-board) |
 | 5V WS2812B Addressable RGB LEDs | 1 | $2.13 | [Link](https://hubtronics.in/neopixel-ws2811-led-strip-india) |
-| Ribbon Cable 1M | 1 | $1.34 | [Link](https://hubtronics.in/neopixel-ws2811-led-strip-india) |
+| Ribbon Cable 1M | 1 | $0.77 | [Link](https://robu.in/product/multicolor-flat-ribbon-cable-20-wire-per-1-meter/) |
 | Type-C Breakout Board | 1 | $0.21 | [Link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=48251095908592) |
 | Heat Shrink Sleeve Tube 1M | 1 | $0.19 | [Link](https://makerbazar.in/products/heat-shrink-tube-transparent?variant=40178073632919) |
 | Base print (ABS 3mm) | 1 | $6.42 | [Link](https://robu.in/product/online-laser-cutting-service) |
@@ -61,4 +61,4 @@
 
 Shipping and extra fees: ₹75 (hubtronics) + ₹99 (robu) = ₹174 / $1.96
 
-Total: $49.79
+Total: $49.22
