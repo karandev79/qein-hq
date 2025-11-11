@@ -47,7 +47,7 @@
 
 | Components | Quantity | Total Price | Buy Link |
 |---|---|---|---|
-| ESP32-S3-WROOM-1 Development Board | 1 | $11.27 | [Link](https://makerbazar.in/products/esp32-s3-wroom-development?variant=48251056881904) |
+| ESP32 WROOM WiFi BLE Bluetooth CP2102 (TypeC) | 1 | $4.51 | [Link](https://makerbazar.in/products/esp32-wroom-wifi-ble-bluetooth-iot-node-mcu-board?variant=48251049935088) |
 | 8Ω 5W Stereo Speaker - Set of 2 | 1 | $4.84 | [Link](https://hubtronics.in/8ohm-5w-speaker?search=speaker) |
 | INMP441 MEMS Microphone Module I2S | 1 | $2.13 | [Link](https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s) |
 | 5V 3A Power Supply | 1 | $2.53 | [Link](https://robu.in/product/power-supply-adapter-charger-5v-3a-type-c-plug/?gad_campaignid=17427802559) |
@@ -59,6 +59,6 @@
 | Base print (ABS 3mm) | 1 | $6.42 | [Link](https://robu.in/product/online-laser-cutting-service) |
 | Front Lids (Acrylic 5mm - White) | 4 | $14.41 | [Link](https://robu.in/product/online-laser-cutting-service) |
 
-Shipping and extra fees: ₹75 (hubtronics) + ₹99 (robu) = ₹174 / $1.96
+Shipping and extra fees: ₹75 (hubtronics) + ₹99 (robu) + ₹65 (makerbazar) = ₹239 / $2.70
 
-Total: $49.22
+Total: $43.2
