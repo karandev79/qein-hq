@@ -47,7 +47,7 @@
 
 | Components | Quantity | Total Price | Buy Link |
 |---|---|---|---|
-| ESP32 WROOM WiFi BLE Bluetooth CP2102 (TypeC) | 1 | $4.51 | [Link](https://makerbazar.in/products/esp32-wroom-wifi-ble-bluetooth-iot-node-mcu-board?variant=48251049935088) |
+| ESP32-C3 | 1 | $2.90 | [Link](https://robu.in/product/esp32-c3-development-board-with-soldering/) |
 | 8Ω 5W Stereo Speaker - Set of 2 | 1 | $4.84 | [Link](https://hubtronics.in/8ohm-5w-speaker?search=speaker) |
 | INMP441 MEMS Microphone Module I2S | 1 | $2.13 | [Link](https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s) |
 | 5V 3A Power Supply | 1 | $2.53 | [Link](https://robu.in/product/power-supply-adapter-charger-5v-3a-type-c-plug/?gad_campaignid=17427802559) |
@@ -61,4 +61,4 @@
 
 Shipping and extra fees: ₹75 (hubtronics) + ₹99 (robu) + ₹65 (makerbazar) = ₹239 / $2.70
 
-Total: $43.2
+Total: $41.59
