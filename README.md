@@ -51,14 +51,16 @@
 | 8Ω 5W Stereo Speaker - Set of 2 | 1 | $4.84 | [Link](https://hubtronics.in/8ohm-5w-speaker?search=speaker) |
 | INMP441 MEMS Microphone Module I2S | 1 | $2.13 | [Link](https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s) |
 | 5V 3A Power Supply | 1 | $2.53 | [Link](https://robu.in/product/power-supply-adapter-charger-5v-3a-type-c-plug/?gad_campaignid=17427802559) |
-| Bluetooth audio power amplifier | 1 | $2.36 | [Link](https://robu.in/product/5w5w-bluetooth-audio-power-amplifier-green-board) |
+| XH-A158 Dual Channel 2*5W 5.0 PAM8403 | 1 | $2.90 | [Link](https://robu.in/product/xh-a158-dual-channel-25w-5-0-pam8403-low-power-diy-wireless-speaker-amplifier-board/) |
+| Glue Sticks | 1 | $1.16 | [Link](https://amzn.in/d/9yxQ9u9) |
 | 5V WS2812B Addressable RGB LEDs | 1 | $2.13 | [Link](https://hubtronics.in/neopixel-ws2811-led-strip-india) |
 | Ribbon Cable 1M | 1 | $0.77 | [Link](https://robu.in/product/multicolor-flat-ribbon-cable-20-wire-per-1-meter/) |
-| Type-C Breakout Board | 1 | $0.21 | [Link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=48251095908592) |
-| Heat Shrink Sleeve Tube 1M | 1 | $0.19 | [Link](https://makerbazar.in/products/heat-shrink-tube-transparent?variant=40178073632919) |
+| Type-C Breakout Board | 1 | $0.23 | [Link](https://hubtronics.in/usb-type-c-4pin-female-connector-breakout?search=Breakout%20Board&page=2) |
+| Heat Shrink Sleeve Tube | 1 | $0.13 | [Link](https://hubtronics.in/1350) |
+| PVC Electronic Wire | 1 | $0.090 | [Link](https://robu.in/product/ul1007-24awg-pvc-electronic-wire-black/) |
 | Base print (ABS 3mm) | 1 | $6.42 | [Link](https://robu.in/product/online-laser-cutting-service) |
 | Front Lids (Acrylic 5mm - White) | 4 | $14.41 | [Link](https://robu.in/product/online-laser-cutting-service) |
 
-Shipping and extra fees: ₹75 (hubtronics) + ₹99 (robu) + ₹65 (makerbazar) = ₹239 / $2.70
+Shipping and extra fees: ₹​75 / $0.84
 
-Total: $41.59
+Total: $41.48
